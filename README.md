@@ -1,2 +1,3 @@
-# class_demo
+# class demo
+
 Demo using Git
